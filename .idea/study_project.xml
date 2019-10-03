@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Google is our door to endless information: rumour has it, you can find anything there if you know how to search. It is the most well-known example of a search engine, and here you will be able to create your own. It probably won’t compete with Google: yours will be but a simple version of a search engine. It will process some data and search it for a word or a phrase. Simple but cool. Let’s get started?&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/66&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Simple Search Engine" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="354" />
+                <option name="stepId" value="5496" />
+                <option name="title" value="String theory" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="355" />
+                <option name="stepId" value="5497" />
+                <option name="title" value="Expand the search" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="356" />
+                <option name="stepId" value="5498" />
+                <option name="title" value="User menu" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="357" />
+                <option name="stepId" value="5499" />
+                <option name="title" value="X-files" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="358" />
+                <option name="stepId" value="5500" />
+                <option name="title" value="Inverted Index search" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="359" />
+                <option name="stepId" value="5501" />
+                <option name="title" value="Search strategies" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="9" />
+                      <option name="theoryId" value="3523" />
+                      <option name="title" value="String" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="266" />
+                      <option name="theoryId" value="4953" />
+                      <option name="title" value="Computer algorithms" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="263" />
+                      <option name="theoryId" value="4991" />
+                      <option name="title" value="The big O notation" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="271" />
+                      <option name="theoryId" value="4970" />
+                      <option name="title" value="Linear search" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="130" />
+                      <option name="theoryId" value="3540" />
+                      <option name="title" value="Algorithms in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="131" />
+                      <option name="theoryId" value="3541" />
+                      <option name="title" value="Linear search in Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="33" />
+                      <option name="theoryId" value="3504" />
+                      <option name="title" value="Switch statement" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="1" />
+                      <option name="theoryId" value="3489" />
+                      <option name="title" value="The main method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="99" />
+                      <option name="theoryId" value="3594" />
+                      <option name="title" value="Arrays as parameters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="111" />
+                      <option name="theoryId" value="3566" />
+                      <option name="title" value="Command-line arguments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="115" />
+                      <option name="theoryId" value="3618" />
+                      <option name="title" value="Defining classes" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="96" />
+                      <option name="theoryId" value="4727" />
+                      <option name="title" value="Objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="116" />
+                      <option name="theoryId" value="3495" />
+                      <option name="title" value="Instance methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="28" />
+                      <option name="theoryId" value="3589" />
+                      <option name="title" value="Access modifiers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="24" />
+                      <option name="theoryId" value="3599" />
+                      <option name="title" value="Getters and setters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="8" />
+                      <option name="theoryId" value="3583" />
+                      <option name="title" value="Inheritance" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="267" />
+                      <option name="theoryId" value="5161" />
+                      <option name="title" value="Data structures" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="537" />
+                      <option name="theoryId" value="7255" />
+                      <option name="title" value="Fixed-size array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="346" />
+                      <option name="theoryId" value="5357" />
+                      <option name="title" value="Dynamic array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="164" />
+                      <option name="theoryId" value="1945" />
+                      <option name="title" value="NPE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="167" />
+                      <option name="theoryId" value="3492" />
+                      <option name="title" value="Generic programming" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="43" />
+                      <option name="theoryId" value="3591" />
+                      <option name="title" value="Basics of collections" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="166" />
+                      <option name="theoryId" value="3567" />
+                      <option name="title" value="ArrayList" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="42" />
+                      <option name="theoryId" value="3581" />
+                      <option name="title" value="List" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="40" />
+                      <option name="theoryId" value="3575" />
+                      <option name="title" value="Set" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="46" />
+                      <option name="theoryId" value="3558" />
+                      <option name="title" value="Map" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="152" />
+                      <option name="theoryId" value="3506" />
+                      <option name="title" value="Ternary operator" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="6" />
+                      <option name="theoryId" value="3595" />
+                      <option name="title" value="Boxing and unboxing" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="5">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="157" />
+                      <option name="theoryId" value="3611" />
+                      <option name="title" value="The concept of patterns" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="326" />
+                      <option name="theoryId" value="5155" />
+                      <option name="title" value="Template method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="159" />
+                      <option name="theoryId" value="3556" />
+                      <option name="title" value="Strategy" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="37" />
+                      <option name="theoryId" value="3525" />
+                      <option name="title" value="Overloading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="38" />
+                      <option name="theoryId" value="3534" />
+                      <option name="title" value="Static members" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="120" />
+                      <option name="theoryId" value="3538" />
+                      <option name="title" value="Multiple constructors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="127" />
+                      <option name="theoryId" value="3588" />
+                      <option name="title" value="The keyword super" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="5" />
+                      <option name="theoryId" value="3572" />
+                      <option name="title" value="Hiding and overriding" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="491" />
+                      <option name="theoryId" value="6692" />
+                      <option name="title" value="Protected modifier" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="128" />
+                      <option name="theoryId" value="3585" />
+                      <option name="title" value="Referencing subclass objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="2" />
+                      <option name="theoryId" value="3587" />
+                      <option name="title" value="Polymorphism" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="124" />
+                      <option name="theoryId" value="3615" />
+                      <option name="title" value="Interface" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Google is our door to endless information: rumour has it, you can find anything there if you know how to search. It is the most well-known example of a search engine, and here you will be able to create your own. It probably won’t compete with Google: yours will be but a simple version of a search engine. It will process some data and search it for a word or a phrase. Simple but cool. Let’s get started?" />
+              <option name="id" value="66" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/210158/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Simple Search Engine" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="5" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Simple Search Engine" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage1" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Write a small program &lt;/strong&gt;that reads words from the first line and then another line — the word to search for—on a separate line. The program must output the index of a word that is equal to the word on the second line. If the string is not found, return &lt;code&gt;&quot;Not found&quot;&lt;/code&gt;. Indexes start from 1.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;A string is found:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;first second three&#10;second&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;In this case, the program outputs:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;2&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;A string is not found:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;cat dog and mouse&#10;elephant&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;In this case, the program outputs:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Not found&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/66/stages/354/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5496" />
+                      <option name="index" value="1" />
+                      <option name="name" value="String theory" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/search/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/search/Main.java" />
+                                <option name="text" value="package search;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/SimpleSearchEngineTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SimpleSearchEngineTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import search.Main;&#10;&#10;import java.util.Arrays;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    boolean correctness;&#10;    int position;&#10;&#10;    TestClue(boolean correct, int pos) {&#10;        correctness = correct;&#10;        position = pos;&#10;    }&#10;}&#10;&#10;public class SimpleSearchEngineTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public SimpleSearchEngineTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return Arrays.asList(&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(true, 2))&#10;                .setInput(&quot;hello my name is alex\nmy&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(true, 5))&#10;                .setInput(&quot;hello my name is alex\nalex&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(true, 1))&#10;                .setInput(&quot;what a beautiful place\nwhat&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(true, 1))&#10;                .setInput(&quot;hi\nhi&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(false, 0))&#10;                .setInput(&quot;hi\nhello&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(false, 0))&#10;                .setInput(&quot;twenty one pilots white stripes queen system of a down\nhello&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(true, 9))&#10;                .setInput(&quot;twenty one pilots white stripes queen system of a down\na&quot;),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(false, 0))&#10;                .setInput(&quot;one two three\nfour&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String[] lines = reply.split(&quot;\n&quot;);&#10;        String lastLine = lines[lines.length - 1].trim().toLowerCase();&#10;&#10;        if (lines.length == 1) {&#10;            boolean correct = clue.correctness;&#10;            int index = clue.position;&#10;            if (correct) {&#10;                return new CheckResult(lastLine.contains(Integer.toString(index)));&#10;            } else {&#10;                return new CheckResult(lastLine.contains(&quot;not found&quot;));&#10;            }&#10;        } else {&#10;            return new CheckResult(false, &quot;You should have responsesFromClient only one line instead of &quot; +&#10;                lines.length);&#10;        }&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1569430312000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage2" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Write a program that reads text lines from the standard input and processes queries consisting of a single word to search for. The program must output all lines which contain the string from the query.&lt;/p&gt;&#10;&#10;&lt;p&gt;You may choose what the text in your project represents. For example, each line may describe:&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;a person, represented by a first name, last name, and an optional email;&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;an address of a building, represented by country, city, state, street, and zip code;&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&lt;p&gt;information about a book, represented by ISBN, title, author/authors, publisher, and so on.&lt;/p&gt;&#10;&#9;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;You can take any of these ideas or use your own, but it is important to work with the same type of dataset throughout all stages of the project. As item delimiters, you can use spaces, commas (see CSV), or any other character.&lt;/p&gt;&#10;&#10;&lt;p&gt;Here is an example of a line. It contains three items: first name, last name and email of a person.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Elsa Sanders elsa@gmail.com&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;In this example, all items are separated by spaces.&lt;/p&gt;&#10;&#10;&lt;p&gt;The search should ignore the case of letters and all the extra spaces.&lt;/p&gt;&#10;&#10;&lt;p&gt;So, firstly the user should input a number N - number of lines with data he is going to enter next. Then the user enters N lines with data. After that, the user enters a number M - number of searches queries. And after each query, the program should print the information it managed to find among the data. You can see this searching process in the example below.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;In the following example, we use people as an example of the dataset.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Enter the number of people:&#10;6&#10;Enter all people:&#10;Dwight Joseph djo@gmail.com&#10;Rene Webb webb@gmail.com&#10;Katie Jacobs&#10;Erick Harrington harrington@gmail.com&#10;Myrtle Medina&#10;Erick Burgess&#10;&#10;Enter the number of search queries:&#10;3&#10;&#10;Enter data to search people:&#10;Erick&#10;&#10;Found people:&#10;Erick Harrington harrington@gmail.com&#10;Erick Burgess&#10;&#10;Enter data to search people:&#10;KATIE&#10;&#10;Found people:&#10;Katie Jacobs&#10;&#10;Enter data to search people:&#10;WEBB@gmail.com&#10;&#10;Found people:&#10;Rene Webb webb@gmail.com&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/66/stages/355/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5497" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Expand the search" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/SimpleSearchEngineTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SimpleSearchEngineTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import search.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.Arrays;&#10;import java.util.LinkedList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    int referencesCount, requestsCount;&#10;    String input;&#10;&#10;    TestClue(int referencesCount, int requestsCount, String input) {&#10;        this.referencesCount = referencesCount;&#10;        this.requestsCount = requestsCount;&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class SimpleSearchEngineTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    private static String testCaseInput1 = &quot;1\n&quot; +&#10;        &quot;John\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;this text will definitely be no match&quot;;&#10;    private static String testCaseInput2 = &quot;3\n&quot;&#10;        + &quot;john smith smith@gmail.com\n&quot;&#10;        + &quot;John lock john_lock@somecompany.com\n&quot;&#10;        + &quot;help me iamaprogrammer@gmail.com\n&quot;&#10;        + &quot;4\n&quot;&#10;        + &quot;john\n&quot;&#10;        + &quot;Somecompany  \n&quot;&#10;        + &quot;@\n&quot;&#10;        + &quot;this text will definitely be no match&quot;;&#10;&#10;    public SimpleSearchEngineTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return Arrays.asList(&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(1, 1,&#10;                testCaseInput1)).setInput(testCaseInput1),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(3, 4,&#10;                testCaseInput2)).setInput(testCaseInput2)&#10;&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cR = &quot;\n&quot;;&#10;        List&lt;String&gt; outputLines = new LinkedList&lt;String&gt;(Arrays.asList(reply.split(cR)));&#10;        String[] inputLines = clue.input.split(cR);&#10;        String[] reference;&#10;        String[] searchResult;&#10;&#10;        int referenceCount, requestsCount;&#10;&#10;        //check count of iteration to fill search reference&#10;        try {&#10;            referenceCount = Integer.parseInt(inputLines[0]);&#10;        } catch (NumberFormatException e) {&#10;            return new CheckResult(false, &quot;The number of lines to search must be a number!&quot;);&#10;        }&#10;&#10;        reference = new String[referenceCount];&#10;&#10;        for (int i = 0; i &lt; referenceCount; i++) {&#10;            reference[i] = inputLines[i + 1];&#10;        }&#10;&#10;        //check count of iteration to search some string;&#10;        try {&#10;            requestsCount = Integer.parseInt(inputLines[referenceCount + 1]);&#10;        } catch (NumberFormatException e) {&#10;            return new CheckResult(false,&#10;                &quot;The number of requests to search must be a number or &quot; +&#10;                &quot;count of reference lines doesn't match input data!&quot;);&#10;        }&#10;&#10;        //clear the list of unnecessary lines, if any&#10;        List&lt;String&gt; cleanedOutput = new ArrayList&lt;String&gt;();&#10;        for (int i = 0; i &lt; outputLines.size(); i++) {&#10;            if (ContainsItemFromList(outputLines.get(i), reference)) {&#10;                cleanedOutput.add(outputLines.get(i));&#10;            }&#10;        }&#10;&#10;        //check found matches accuracy&#10;        int actualTotalMatches = cleanedOutput.size();&#10;        int requiredTotalMatches = 0;&#10;        for (int j = 0; j &lt; requestsCount; j++) {&#10;            String toSearch = inputLines[referenceCount + 2 + j];&#10;            searchResult = Arrays.stream(reference).filter(line -&gt; line.toLowerCase()&#10;                .contains(toSearch.toLowerCase().trim()))&#10;                .toArray(String[]::new);&#10;&#10;            requiredTotalMatches += searchResult.length;&#10;            List&lt;String&gt; searchedFromOutput;&#10;&#10;            try {&#10;                searchedFromOutput = cleanedOutput&#10;                    .subList(0, searchResult.length);&#10;            } catch (IndexOutOfBoundsException ex) {&#10;                return new CheckResult(false, &quot;Can't parse your output. &quot; +&#10;                    &quot;Please, make sure your output format matches with one in the example.&quot;);&#10;            }&#10;&#10;&#10;            if (!Arrays.equals(searchedFromOutput.toArray(), searchResult)) {&#10;                return new CheckResult(false,&#10;                    &quot;Search result is not equal to the expected in search iteration &quot; + j);&#10;            }&#10;&#10;            cleanedOutput.subList(0, searchResult.length).clear();&#10;        }&#10;        if (actualTotalMatches != requiredTotalMatches) {&#10;            return new CheckResult(false, &quot;wrong number of found matches!&quot;);&#10;        }&#10;&#10;        if(referenceCount != clue.referencesCount){&#10;            return new CheckResult(false, &quot;Reference count is incorrect&quot;);&#10;        }&#10;        else if(requestsCount != clue.requestsCount){&#10;            return new CheckResult(false, &quot;Search requests count is incorrect&quot;);&#10;        }&#10;        else {&#10;            return CheckResult.TRUE;&#10;        }&#10;    }&#10;&#10;    public static boolean ContainsItemFromList(String inputStr, String[] items) {&#10;        return Arrays.stream(items).parallel().anyMatch(inputStr::contains);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/search/Main.java" />
+                                <option name="text" value="package search;&#10;&#10;import java.util.*;&#10;import java.util.stream.Collectors;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;        &#10;        List&lt;String&gt; words = Arrays.stream(sc.nextLine().split(&quot; &quot;)).collect(Collectors.toList());&#10;        &#10;        String pattern = sc.nextLine();&#10;        &#10;        if (!words.contains(pattern)) {&#10;            System.out.println(&quot;Not found&quot;);&#10;            return;&#10;        }&#10;        &#10;        System.out.println(words.indexOf(pattern) + 1);&#10;&#10;        sc.close();&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1569430314000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage3" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Modify the previous program.&lt;strong&gt; &lt;/strong&gt;At this stage, you need to add a user menu.&lt;/p&gt;&#10;&#10;&lt;p&gt;The menu should display the following actions:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;1. Search information.&#10;2. Print all data.&#10;0. Exit.&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;The user must select a menu item and then enter data if necessary. Your program must not stop until the corresponding option (the exit option) is chosen.&lt;br&gt;&#10;    Decompose the program into separate methods to make it easy to understand and add to or edit later.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;In the example below, we use people as a dataset example.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Enter the number of people:&#10;6&#10;Enter all people:&#10;Dwight Joseph djo@gmail.com&#10;Rene Webb webb@gmail.com&#10;Katie Jacobs&#10;Erick Harrington harrington@gmail.com&#10;Myrtle Medina&#10;Erick Burgess&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;3&#10;&#10;Incorrect option! Try again.&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;1&#10;&#10;Enter a name or email to search all suitable people.&#10;KATIE&#10;Katie Jacobs&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;2&#10;&#10;=== List of people ===&#10;Dwight Joseph djo@gmail.com&#10;Rene Webb webb@gmail.com&#10;Katie Jacobs&#10;Erick Harrington harrington@gmail.com&#10;Myrtle Medina&#10;Erick Burgess&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;0&#10;&#10;Bye!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/66/stages/356/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5498" />
+                      <option name="index" value="3" />
+                      <option name="name" value="User menu" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/SimpleSearchEngineTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SimpleSearchEngineTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import search.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.Arrays;&#10;import java.util.LinkedList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    int referencesCount;&#10;    String input;&#10;&#10;    TestClue(int referencesCount, String input) {&#10;        this.referencesCount = referencesCount;&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class SimpleSearchEngineTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public static final String names =&#10;        &quot;Dwight Joseph djo@gmail.com\n&quot; +&#10;        &quot;Rene Webb webb@gmail.com\n&quot; +&#10;        &quot;Katie Jacobs\n&quot; +&#10;        &quot;Erick Harrington harrington@gmail.com\n&quot; +&#10;        &quot;Myrtle Medina\n&quot; +&#10;        &quot;Erick Burgess\n&quot;;&#10;&#10;    public static final String test1 =&#10;        &quot;6\n&quot; +&#10;        names +&#10;        &quot;2\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    public static final String test2 =&#10;        &quot;6\n&quot; +&#10;        names +&#10;        &quot;1\n&quot; +&#10;        &quot;burgess\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    public static final String test3 =&#10;        &quot;6\n&quot; +&#10;        names +&#10;        &quot;1\n&quot; +&#10;        &quot;erick\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    public static final String test4 =&#10;        &quot;6\n&quot; +&#10;        names +&#10;        &quot;3\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;burgess\n&quot; +&#10;        &quot;2\n&quot; +&#10;        &quot;2\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;erick\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    public static final String test5 =&#10;        &quot;6\n&quot; +&#10;        names +&#10;        &quot;2\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;@\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;this text never find some match\n&quot; +&#10;        &quot;2\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    public static final String test6 =&#10;        &quot;6\n&quot; +&#10;        names +&#10;        &quot;0&quot;;&#10;&#10;    public SimpleSearchEngineTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        for (String input : new String[]{&#10;            test1, test2, test3, test4, test5, test6}) {&#10;&#10;            tests.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(6, input))&#10;                .setInput(input));&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cR = &quot;\n&quot;;&#10;        List&lt;String&gt; outputLines = new LinkedList&lt;String&gt;(Arrays.asList(reply.split(cR)));&#10;        String[] inputLines = clue.input.split(cR);&#10;        String[] reference;&#10;        String[] idealSearchResult;&#10;&#10;        int referenceCount;&#10;&#10;        //check count of iteration to fill search reference&#10;        try {&#10;            referenceCount = Integer.parseInt(inputLines[0]);&#10;        } catch (NumberFormatException e) {&#10;            return new CheckResult(false,&#10;                &quot;The number of lines to search must be a number!&quot;);&#10;        }&#10;&#10;        if (referenceCount != clue.referencesCount) {&#10;            return new CheckResult(false,&#10;                &quot;Count of search source lines not match expected!&quot;);&#10;        }&#10;&#10;        reference = new String[referenceCount];&#10;&#10;        for (int i = 0; i &lt; referenceCount; i++) {&#10;            reference[i] = inputLines[i + 1];&#10;        }&#10;&#10;        //clear the list of unnecessary lines, if any&#10;        List&lt;String&gt; cleanedOutput = new ArrayList&lt;String&gt;();&#10;        for (int i = 0; i &lt; outputLines.size(); i++) {&#10;            if (ContainsItemFromList(outputLines.get(i), reference)) {&#10;                cleanedOutput.add(outputLines.get(i));&#10;            }&#10;        }&#10;&#10;        int currentInputLine = referenceCount + 1;&#10;        int currentOutputLine = 0;&#10;&#10;        int actionType = -1;&#10;&#10;        int searchIteration = 1;&#10;        int fullOutputIteration = 1;&#10;&#10;        while (actionType != 0) {&#10;            try {&#10;                actionType = Integer.parseInt(inputLines[currentInputLine]);&#10;            } catch (NumberFormatException e) {&#10;                return new CheckResult(false,&#10;                    &quot;The number of menu item must be number&quot; +&#10;                        &quot; or count of search source is wrong!&quot;);&#10;            }&#10;&#10;            switch (actionType) {&#10;                case 1:&#10;                    currentInputLine++;&#10;&#10;                    String toSearch = inputLines[currentInputLine];&#10;&#10;                    currentInputLine++;&#10;&#10;                    idealSearchResult = Arrays.stream(reference)&#10;                        .filter(line -&gt; line.toLowerCase()&#10;                        .contains(toSearch.toLowerCase().trim()))&#10;                        .toArray(String[]::new);&#10;&#10;                    String[] currentSearchResult = new String[idealSearchResult.length];&#10;                    for (int i = 0; i &lt; currentSearchResult.length; i++) {&#10;                        try {&#10;                            currentSearchResult[i] = cleanedOutput.get(currentOutputLine);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                        currentOutputLine++;&#10;                    }&#10;&#10;                    Arrays.sort(currentSearchResult);&#10;                    Arrays.sort(idealSearchResult);&#10;&#10;                    if (!Arrays.equals(currentSearchResult, idealSearchResult)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Search result is not equal &quot; +&#10;                                &quot;to the expected search&quot;);&#10;                    }&#10;&#10;                    searchIteration++;&#10;                    break;&#10;&#10;                case 2:&#10;                    currentInputLine++;&#10;&#10;                    String[] currentAll = new String[reference.length];&#10;                    for (int i = 0; i &lt; currentAll.length; i++) {&#10;                        try {&#10;                            currentAll[i] = cleanedOutput.get(currentOutputLine);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                        currentOutputLine++;&#10;                    }&#10;&#10;                    Arrays.sort(currentAll);&#10;                    Arrays.sort(reference);&#10;&#10;                    if (!Arrays.equals(currentAll, reference)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Looks like you're printing &quot; +&#10;                                &quot;unknown people when you enter option 2.&quot;);&#10;                    }&#10;                    fullOutputIteration++;&#10;                    break;&#10;                case 0:&#10;                    return CheckResult.TRUE;&#10;                default:&#10;                    currentInputLine++;&#10;                    break;&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    public static boolean ContainsItemFromList(String inputStr, String[] items) {&#10;        return Arrays.stream(items).parallel().anyMatch(inputStr::contains);&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/search/Main.java" />
+                                <option name="text" value="package search;&#10;&#10;import java.util.*;&#10;import java.util.stream.Collectors;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        System.out.println(&quot;Enter the number of people: &quot;);&#10;&#10;        int numberOfInputLines = Integer.parseInt(sc.nextLine());&#10;&#10;        List&lt;String&gt; data = collectData(sc, numberOfInputLines);&#10;&#10;        searchData(sc, data);&#10;&#10;        sc.close();&#10;    }&#10;&#10;    public static List&lt;String&gt; collectData(Scanner sc, int numberOfInputLines) {&#10;        System.out.println(&quot;Enter all people: &quot;);&#10;&#10;        List&lt;String&gt; data = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; numberOfInputLines; i++) {&#10;            data.add(sc.nextLine());&#10;        }&#10;&#10;        return data;&#10;    }&#10;&#10;    public static void searchData(Scanner sc, List&lt;String&gt; data) {&#10;        System.out.println(&quot;Enter the number of search queries: &quot;);&#10;&#10;        int numberOfSearchQueries = Integer.parseInt(sc.nextLine());&#10;&#10;        for (int i = 0; i &lt; numberOfSearchQueries; i++) {&#10;            System.out.println(&quot;Enter data to search people: &quot;);&#10;&#10;            String pattern = sc.nextLine();&#10;&#10;            System.out.println(&quot;Found people: &quot;);&#10;&#10;            for (String elem : data) {&#10;                if (elem.toLowerCase().trim().contains(pattern.toLowerCase().trim())) {&#10;                    System.out.println(elem);&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1569430315000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage4" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Modify the program. The program should read data from a text file instead of the standard input. The file structure depends on your text’s meaning (personal information, building information, book information, and so on). See an example below..&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Dwight Joseph djo@gmail.com&#10;Rene Webb webb@gmail.com&#10;Katie Jacobs&#10;Erick Harrington harrington@gmail.com&#10;Myrtle Medina&#10;Erick Burgess&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Note, the file should not include the total number of lines. All lines must be read only once at the start of your program.&lt;/p&gt;&#10;&#10;&lt;p&gt;You can take any of these ideas or use your own, but it is important to work with the same type of dataset throughout all stages. As item delimiters, you can use spaces, commas (see CSV), or any other character.&lt;/p&gt;&#10;&#10;&lt;p&gt;As item delimiters, you can use spaces, commas (see CSV), or any other character.&lt;/p&gt;&#10;&#10;&lt;p&gt;Here is an example of a line. It contains three items: first name, last name, and email of a person.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;1&#10;&#10;Enter a name or email to search all suitable people.&#10;WEBB@gmail.com&#10;Rene Webb webb@gmail.com&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;0&#10;&#10;Bye!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/66/stages/357/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5499" />
+                      <option name="index" value="4" />
+                      <option name="name" value="X-files" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/SearchEngineTests.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SearchEngineTests.java" />
+                                <option name="text" value="public class SearchEngineTests {&#10;    public static final String NAMES = &quot;Kristofer Galley\n&quot; +&#10;        &quot;Fernando Marbury fernando_marbury@gmail.com\n&quot; +&#10;        &quot;Kristyn Nix nix-kris@gmail.com\n&quot; +&#10;        &quot;Regenia Enderle\n&quot; +&#10;        &quot;Malena Gray\n&quot; +&#10;        &quot;Colette Mattei\n&quot; +&#10;        &quot;Wendolyn Mcphillips\n&quot; +&#10;        &quot;Jim Gray\n&quot; +&#10;        &quot;Coreen Beckham\n&quot; +&#10;        &quot;Bob Yeh bobyeah@gmail.com\n&quot; +&#10;        &quot;Shannan Strope stropeshah@gmail.com\n&quot; +&#10;        &quot;Yer Fillion\n&quot; +&#10;        &quot;Margene Resendez marres@gmail.com\n&quot; +&#10;        &quot;Blossom Ambler\n&quot; +&#10;        &quot;Teri Ledet teri_ledet@gmail.com\n&quot; +&#10;        &quot;Dana Baron baron@gmail.com\n&quot; +&#10;        &quot;Abram Goldsberry\n&quot; +&#10;        &quot;Yer Leopold\n&quot; +&#10;        &quot;Stefania Trunzo\n&quot; +&#10;        &quot;Alexis Leopold\n&quot; +&#10;        &quot;Carlene Pompa\n&quot; +&#10;        &quot;Oliver Dacruz\n&quot; +&#10;        &quot;Jonie Richter\n&quot; +&#10;        &quot;Pasquale Gallien gallien@evilcorp.com\n&quot; +&#10;        &quot;Verdie Gentle\n&quot; +&#10;        &quot;Gerardo Strouth gallien@evilcorp.com\n&quot; +&#10;        &quot;Agripina Dones\n&quot; +&#10;        &quot;Latricia Niebuhr\n&quot; +&#10;        &quot;Malena Schommer\n&quot; +&#10;        &quot;Drema Leopold\n&quot; +&#10;        &quot;Heide Payeur\n&quot; +&#10;        &quot;Ranae Digiovanni\n&quot; +&#10;        &quot;Simona Pereira\n&quot; +&#10;        &quot;Nick Digiovanni\n&quot; +&#10;        &quot;Angelita Wigington gallien@evilcorp.com\n&quot; +&#10;        &quot;Elin Gray\n&quot; +&#10;        &quot;Dwain Trunzo\n&quot; +&#10;        &quot;Boris Beiler\n&quot; +&#10;        &quot;Remi Malek fsociefy@gmail.com\n&quot; +&#10;        &quot;Demetria Hostetler gallien@evilcorp.com\n&quot; +&#10;        &quot;Nydia Mcduffie\n&quot; +&#10;        &quot;Florencio Defibaugh\n&quot; +&#10;        &quot;Warner Giblin\n&quot; +&#10;        &quot;May Mans\n&quot; +&#10;        &quot;Shu Gray\n&quot; +&#10;        &quot;Kaycee Gray\n&quot; +&#10;        &quot;Victorina Froehlich victory@gmail.com\n&quot; +&#10;        &quot;Roseanne Gray\n&quot; +&#10;        &quot;Erica Radford hisam@gmail.com\n&quot; +&#10;        &quot;Elyse Pauling&quot;;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/SimpleSearchEngineTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SimpleSearchEngineTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import search.Main;&#10;&#10;import java.util.ArrayList;&#10;import java.util.Arrays;&#10;import java.util.LinkedList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class SimpleSearchEngineTest extends BaseStageTest&lt;TestClue&gt; {&#10;    public SimpleSearchEngineTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    public static final String test1 =&#10;            &quot;2\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test2 =&#10;            &quot;1\n&quot; +&#10;            &quot;burgess\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test3 =&#10;            &quot;1\n&quot; +&#10;            &quot;erick\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test4 =&#10;            &quot;3\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;burgess\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;erick\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test5 =&#10;            &quot;2\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;@\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;this text never find some match\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test6 =&#10;            &quot;0&quot;;&#10;&#10;    public static final String test7 =&#10;            &quot;1\n&quot; +&#10;            &quot;this text never find some match\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test8 =&#10;        &quot;1\n&quot; +&#10;        &quot;h\n&quot; +&#10;        &quot;2\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;@gmail.com\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    public static final String test9 =&#10;        &quot;4\n&quot; +&#10;        &quot;2\n&quot; +&#10;        &quot;2\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;this text never gonna be matched\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;h\n&quot; +&#10;        &quot;1\n&quot; +&#10;        &quot;@GMAIL\n&quot; +&#10;        &quot;0&quot;;&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        for (String input : new String[]{&#10;            test1, test2, test3, test4, test5, test6, test7, test8, test9}) {&#10;&#10;            tests.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(input))&#10;                .setInput(input)&#10;                .addArguments(&quot;--data&quot;, &quot;names.txt&quot;)&#10;                .addFile(&quot;names.txt&quot;, SearchEngineTests.NAMES));&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cR = &quot;\n&quot;;&#10;        List&lt;String&gt; outputLines = new LinkedList&lt;String&gt;(Arrays.asList(reply.split(cR)));&#10;        String[] inputLines = clue.input.split(cR);&#10;        String[] reference;&#10;        String[] idealSearchResult;&#10;&#10;        reference = SearchEngineTests.NAMES.split(&quot;\n&quot;);&#10;&#10;        //clear the list of unnecessary lines, if any&#10;        List&lt;String&gt; cleanedOutput = new ArrayList&lt;String&gt;();&#10;        for (int i = 0; i &lt; outputLines.size(); i++) {&#10;            if (containsItemFromList(outputLines.get(i), reference)) {&#10;                cleanedOutput.add(outputLines.get(i));&#10;            }&#10;        }&#10;&#10;        int currentInputLine = 0;&#10;        int currentOutputLine = 0;&#10;&#10;        int actionType = -1;&#10;&#10;        int searchIteration = 1;&#10;        int fullOutputIteration = 1;&#10;&#10;        while (actionType != 0) {&#10;            try {&#10;                actionType = Integer.parseInt(inputLines[currentInputLine]);&#10;            } catch (NumberFormatException e) {&#10;                return new CheckResult(false,&#10;                    &quot;The number of menu item must be number!&quot;);&#10;            }&#10;&#10;            switch (actionType) {&#10;                case 1:&#10;                    currentInputLine++;&#10;&#10;                    String toSearch = inputLines[currentInputLine];&#10;&#10;                    currentInputLine++;&#10;&#10;                    idealSearchResult = Arrays.stream(reference)&#10;                        .filter(line -&gt; line.toLowerCase()&#10;                            .contains(toSearch.toLowerCase().trim()))&#10;                        .toArray(String[]::new);&#10;&#10;                    String[] currentSearchResult = new String[idealSearchResult.length];&#10;                    for (int i = 0; i &lt; currentSearchResult.length; i++) {&#10;                        try {&#10;                            currentSearchResult[i] = cleanedOutput.get(currentOutputLine);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                        currentOutputLine++;&#10;                    }&#10;&#10;                    Arrays.sort(currentSearchResult);&#10;                    Arrays.sort(idealSearchResult);&#10;&#10;                    if (!Arrays.equals(currentSearchResult, idealSearchResult)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Search result is not equal &quot; +&#10;                                &quot;to the expected search&quot;);&#10;                    }&#10;&#10;                    searchIteration++;&#10;                    break;&#10;                case 2:&#10;                    currentInputLine++;&#10;&#10;                    String[] currentAll = new String[reference.length];&#10;                    for (int i = 0; i &lt; currentAll.length; i++) {&#10;                        try {&#10;                            currentAll[i] = cleanedOutput.get(currentOutputLine);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                        currentOutputLine++;&#10;                    }&#10;&#10;                    Arrays.sort(currentAll);&#10;                    Arrays.sort(reference);&#10;&#10;                    if (!Arrays.equals(currentAll, reference)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Looks like you're printing &quot; +&#10;                                &quot;unknown people when you enter option 2.&quot;);&#10;                    }&#10;&#10;                    fullOutputIteration++;&#10;                    break;&#10;                case 0:&#10;                    return CheckResult.TRUE;&#10;                default:&#10;                    currentInputLine++;&#10;                    break;&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    private static boolean containsItemFromList(String inputStr, String[] items) {&#10;        return Arrays.stream(items).parallel().anyMatch(inputStr::contains);&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/search/Main.java" />
+                                <option name="text" value="package search;&#10;&#10;import java.util.*;&#10;import java.util.stream.Collectors;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        List&lt;String&gt; data = collectData(sc);&#10;&#10;        printMenu();&#10;&#10;        performAction(sc, data);&#10;&#10;        sc.close();&#10;    }&#10;&#10;    private static List&lt;String&gt; collectData(Scanner sc) {&#10;        System.out.println(&quot;Enter the number of people: &quot;);&#10;&#10;        int numberOfInputLines = Integer.parseInt(sc.nextLine());&#10;&#10;        System.out.println(&quot;Enter all people: &quot;);&#10;&#10;        List&lt;String&gt; data = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; numberOfInputLines; i++) {&#10;            data.add(sc.nextLine());&#10;        }&#10;&#10;        return data;&#10;    }&#10;&#10;    private static void printMenu() {&#10;        System.out.println(&quot;&quot;);&#10;        System.out.println(&quot;=== Menu ===&quot;);&#10;        System.out.println(&quot;1. Find a person&quot;);&#10;        System.out.println(&quot;2. Print all people&quot;);&#10;        System.out.println(&quot;0. Exit&quot;);&#10;    }&#10;&#10;    private static void performAction(Scanner sc, List&lt;String&gt; data) {&#10;        loop: while (true) {&#10;            int action = Integer.parseInt(sc.nextLine());&#10;&#10;            switch (action) {&#10;                case 0:&#10;                    System.out.println(&quot;Bye!&quot;);&#10;                    break loop;&#10;                case 1:&#10;                    System.out.println(&quot;Enter a name or email to search all suitable people.&quot;);&#10;                    String name = sc.nextLine();&#10;                    searchData(sc, name, data);&#10;                    printMenu();&#10;                    break;&#10;                case 2:&#10;                    printAllPeople(data);&#10;                    printMenu();&#10;                    break;&#10;                default:&#10;                    System.out.println(&quot;Incorrect option! Try again.&quot;);&#10;                    printMenu();&#10;                    break;&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void searchData(Scanner sc, String pattern, List&lt;String&gt; data) {&#10;        for (String elem : data) {&#10;            if (elem.toLowerCase().trim().contains(pattern.toLowerCase().trim())) {&#10;                System.out.println(elem);&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void printAllPeople(List&lt;String&gt; data) {&#10;        System.out.println(&quot;&quot;);&#10;        System.out.println(&quot;=== List of people ===&quot;);&#10;        data.forEach(System.out::println);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1569430316000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage5" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Now your program can successfully search for all matching lines, ignoring cases and extra spaces. But there is one problem: you always need to check whether each line contains a query string or not.&lt;/p&gt;&#10;&#10;&lt;p&gt;To optimize your program you can use a data structure called &lt;strong&gt;Inverted Index&lt;/strong&gt;. It maps each word to all positions/lines/documents in which the word occurs. As a result, when we receive a query, we can immediately find the answer without any comparisons.&lt;br&gt;&#10;    &lt;br&gt;&#10;    At this stage, build an inverted index when the program starts, and then use the index for searching operations. You can implement it using a &lt;code&gt;Map&lt;/code&gt; that maps an item of a line to a list (or set) of indexes of lines which contain the item.&lt;/p&gt;&#10;&#10;&lt;p&gt;Suppose you have the following array or list of lines:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;0: Katie Jacobs&#10;1: Erick Harrington harrington@gmail.com&#10;2: Myrtle Medina&#10;3: Erick Burgess&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;For these lines, the inverted index will look like the following:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Katie -&amp;gt; [0]&#10;Jacobs -&amp;gt; [0]&#10;Erick -&amp;gt; [1, 3]&#10;Harrington -&amp;gt; [1]&#10;harrington@gmail.com -&amp;gt; [1]&#10;Myrtle -&amp;gt; [2]&#10;Medina -&amp;gt; [2]&#10;Burgess -&amp;gt; [3]&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;The order of pairs is not important. If you are searching for Erick, you can immediately get the target fields using this mapping.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;1&#10;&#10;Enter a name or email to search all suitable people.&#10;ERICK&#10;2 persons found:&#10;Erick Harrington harrington@gmail.com&#10;Erick Burgess&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;1&#10;&#10;Enter a name or email to search all suitable people.&#10;ROY@gmail.com&#10;1 persons found:&#10;Richard    Roy    roy@gmail.com&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;1&#10;&#10;Enter a name or email to search all suitable people.&#10;john&#10;No matching people found.&#10;&#10;=== Menu ===&#10;1. Find a person&#10;2. Print all people&#10;0. Exit&#10;0&#10;&#10;Bye!&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/66/stages/358/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5500" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Inverted Index search" />
+                      <option name="record" value="5" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/SearchEngineTests.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SearchEngineTests.java" />
+                                <option name="text" value="public class SearchEngineTests {&#10;    public static final String NAMES =&#10;        &quot;Kristofer Galley\n&quot; +&#10;        &quot;Fernando Marbury fernando_marbury@gmail.com\n&quot; +&#10;        &quot;Kristyn Nix nix-kris@gmail.com\n&quot; +&#10;        &quot;Regenia Enderle\n&quot; +&#10;        &quot;Malena Gray\n&quot; +&#10;        &quot;Colette Mattei\n&quot; +&#10;        &quot;Wendolyn Mcphillips\n&quot; +&#10;        &quot;Jim Gray\n&quot; +&#10;        &quot;Coreen Beckham\n&quot; +&#10;        &quot;Bob Yeh bobyeah@gmail.com\n&quot; +&#10;        &quot;Shannan Bob stropeshah@gmail.com\n&quot; +&#10;        &quot;Yer Fillion\n&quot; +&#10;        &quot;Margene Resendez marres@gmail.com\n&quot; +&#10;        &quot;Blossom Ambler\n&quot; +&#10;        &quot;Teri Ledet teri_ledet@gmail.com\n&quot; +&#10;        &quot;Dana Baron baron@gmail.com\n&quot; +&#10;        &quot;Abram Goldsberry\n&quot; +&#10;        &quot;Yer Leopold\n&quot; +&#10;        &quot;Stefania Trunzo\n&quot; +&#10;        &quot;Alexis Leopold\n&quot; +&#10;        &quot;Carlene Bob\n&quot; +&#10;        &quot;Oliver Dacruz\n&quot; +&#10;        &quot;Jonie Richter\n&quot; +&#10;        &quot;Pasquale Gallien gallien@evilcorp.com\n&quot; +&#10;        &quot;Verdie Gentle\n&quot; +&#10;        &quot;Gerardo Strouth gallien@evilcorp.com\n&quot; +&#10;        &quot;Agripina Bob\n&quot; +&#10;        &quot;Latricia Niebuhr\n&quot; +&#10;        &quot;Malena Schommer\n&quot; +&#10;        &quot;Drema Leopold\n&quot; +&#10;        &quot;Heide Payeur\n&quot; +&#10;        &quot;Ranae Digiovanni\n&quot; +&#10;        &quot;Simona Pereira\n&quot; +&#10;        &quot;Nick Digiovanni\n&quot; +&#10;        &quot;Angelita Wigington gallien@evilcorp.com\n&quot; +&#10;        &quot;Elin Gray\n&quot; +&#10;        &quot;Dwain Trunzo\n&quot; +&#10;        &quot;Boris Beiler\n&quot; +&#10;        &quot;Remi Malek fsociefy@gmail.com\n&quot; +&#10;        &quot;Demetria Hostetler gallien@evilcorp.com\n&quot; +&#10;        &quot;Nydia Mcduffie\n&quot; +&#10;        &quot;Florencio Defibaugh\n&quot; +&#10;        &quot;Warner Giblin\n&quot; +&#10;        &quot;Bob Mans\n&quot; +&#10;        &quot;Shu Gray\n&quot; +&#10;        &quot;Kaycee Gray\n&quot; +&#10;        &quot;Victorina Froehlich victory@gmail.com\n&quot; +&#10;        &quot;Roseanne Gray\n&quot; +&#10;        &quot;Erica Radford hisam@gmail.com\n&quot; +&#10;        &quot;Elyse Pauling&quot;;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/SimpleSearchEngineTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="test/SimpleSearchEngineTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import search.Main;&#10;&#10;import java.util.*;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class SimpleSearchEngineTest extends BaseStageTest&lt;TestClue&gt; {&#10;    public SimpleSearchEngineTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    public static final String test1 =&#10;        &quot;2\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test2 =&#10;        &quot;1\n&quot; +&#10;            &quot;burgess\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test3 =&#10;        &quot;1\n&quot; +&#10;            &quot;erick\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test4 =&#10;        &quot;3\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;burgess\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;erick\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test5 =&#10;            &quot;1\n&quot; +&#10;            &quot;@\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;this text never find some match\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test6 =&#10;        &quot;0&quot;;&#10;&#10;    public static final String test7 =&#10;        &quot;1\n&quot; +&#10;            &quot;this text never find some match\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test8 =&#10;        &quot;1\n&quot; +&#10;            &quot;h\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;@gmail.com\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    public static final String test9 =&#10;        &quot;4\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;2\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;this text never gonna be matched\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;h\n&quot; +&#10;            &quot;1\n&quot; +&#10;            &quot;@GMAIL\n&quot; +&#10;            &quot;0&quot;;&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;&#10;        List&lt;org.hyperskill.hstest.dev.testcase.TestCase&lt;TestClue&gt;&gt; tests = new ArrayList&lt;&gt;();&#10;&#10;        for (String input : new String[]{&#10;            test1, test2, test3, test4, test5, test6, test7, test8, test9}) {&#10;&#10;            tests.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(new TestClue(input))&#10;                .setInput(input)&#10;                .addArguments(&quot;--data&quot;, &quot;names.txt&quot;)&#10;                .addFile(&quot;names.txt&quot;, SearchEngineTests.NAMES));&#10;        }&#10;&#10;        return tests;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cR = &quot;\n&quot;;&#10;        List&lt;String&gt; outputLines = new LinkedList&lt;String&gt;(Arrays.asList(reply.split(cR)));&#10;        String[] inputLines = clue.input.split(cR);&#10;        String[] reference;&#10;        String[] currentSearchResult;&#10;&#10;        reference = SearchEngineTests.NAMES.split(&quot;\n&quot;);&#10;&#10;        //clear the list of unnecessary lines, if any&#10;        List&lt;String&gt; cleanedOutput = new ArrayList&lt;String&gt;();&#10;        for (int i = 0; i &lt; outputLines.size(); i++) {&#10;            if (containsItemFromList(outputLines.get(i), reference)) {&#10;                cleanedOutput.add(outputLines.get(i).toLowerCase());&#10;            }&#10;        }&#10;&#10;        int currentInputLine = 0;&#10;        int currentOutputLine = 0;&#10;&#10;        int actionType = -1;&#10;&#10;        while (actionType != 0) {&#10;            try {&#10;                actionType = Integer.parseInt(inputLines[currentInputLine]);&#10;            } catch (NumberFormatException e) {&#10;                return new CheckResult(false,&#10;                    &quot;The number of menu item must be number!&quot;);&#10;            }&#10;&#10;            switch (actionType) {&#10;                case 1:&#10;                    currentInputLine++;&#10;&#10;                    String toSearch = inputLines[currentInputLine].trim().toLowerCase();&#10;&#10;                    currentInputLine++;&#10;&#10;                    List&lt;String&gt; intendedResult = new ArrayList&lt;&gt;();&#10;&#10;                    for (String s : reference) {&#10;                        s = s.toLowerCase();&#10;                        if (s.contains(&quot; &quot; + toSearch + &quot; &quot;)&#10;                            || s.startsWith(toSearch + &quot; &quot;)&#10;                            || s.endsWith(&quot; &quot; + toSearch)) {&#10;&#10;                            intendedResult.add(s);&#10;                        }&#10;                    }&#10;&#10;                    currentSearchResult = new String[intendedResult.size()];&#10;                    for (int i = 0; i &lt; intendedResult.size(); i++) {&#10;                        try {&#10;                            currentSearchResult[i] = cleanedOutput.get(currentOutputLine++);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                    }&#10;&#10;                    String[] correctOutput = intendedResult.toArray(String[]::new);&#10;&#10;                    Arrays.sort(correctOutput);&#10;                    Arrays.sort(currentSearchResult);&#10;&#10;                    if (!Arrays.equals(correctOutput, currentSearchResult)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Search result is not equal &quot; +&#10;                                &quot;to the expected search&quot;);&#10;                    }&#10;                    break;&#10;                case 2:&#10;                    currentInputLine++;&#10;&#10;                    List&lt;String&gt; intendedResultAll = new ArrayList&lt;&gt;();&#10;&#10;                    for (String s : reference) {&#10;                        s = s.toLowerCase();&#10;                        intendedResultAll.add(s);&#10;                    }&#10;&#10;                    String[] userResultAll = new String[intendedResultAll.size()];&#10;                    for (int i = 0; i &lt; intendedResultAll.size(); i++) {&#10;                        try {&#10;                            userResultAll[i] = cleanedOutput.get(currentOutputLine++);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                    }&#10;&#10;                    String[] correctOutputAll = intendedResultAll.toArray(String[]::new);&#10;&#10;                    Arrays.sort(correctOutputAll);&#10;                    Arrays.sort(userResultAll);&#10;&#10;                    if (!Arrays.equals(correctOutputAll, userResultAll)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Looks like you're printing &quot; +&#10;                                &quot;unknown people when you enter option 2.&quot;);&#10;                    }&#10;                    break;&#10;                case 0:&#10;                    return CheckResult.TRUE;&#10;                default:&#10;                    currentInputLine++;&#10;                    break;&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    private static boolean containsItemFromList(String inputStr, String[] items) {&#10;        return Arrays.stream(items).parallel().anyMatch(inputStr::contains);&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/Main.java" />
+                                <option name="text" value="package search;&#10;&#10;import java.io.File;&#10;import java.io.FileNotFoundException;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        List&lt;String&gt; data = collectData(args);&#10;&#10;        printMenu();&#10;&#10;        performAction(data);&#10;    }&#10;&#10;    private static List&lt;String&gt; collectData(String[] args) {&#10;        List&lt;String&gt; data = new ArrayList&lt;&gt;();&#10;&#10;        File file = new File(args[1]);&#10;        try {&#10;            Scanner sc = new Scanner(file);&#10;&#10;            while (sc.hasNext()) {&#10;                data.add(sc.nextLine());&#10;            }&#10;        } catch (FileNotFoundException e) {&#10;            /*_*/&#10;        }&#10;&#10;        return data;&#10;    }&#10;&#10;    private static void printMenu() {&#10;        System.out.println(&quot;&quot;);&#10;        System.out.println(&quot;=== Menu ===&quot;);&#10;        System.out.println(&quot;1. Find a person&quot;);&#10;        System.out.println(&quot;2. Print all people&quot;);&#10;        System.out.println(&quot;0. Exit&quot;);&#10;    }&#10;&#10;    private static void performAction(List&lt;String&gt; data) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        loop: while (true) {&#10;            int action = Integer.parseInt(sc.nextLine());&#10;&#10;            switch (action) {&#10;                case 0:&#10;                    System.out.println(&quot;Bye!&quot;);&#10;                    break loop;&#10;                case 1:&#10;                    System.out.println(&quot;Enter a name or email to search all suitable people.&quot;);&#10;                    String name = sc.nextLine();&#10;                    searchData(name, data);&#10;                    printMenu();&#10;                    break;&#10;                case 2:&#10;                    printAllPeople(data);&#10;                    printMenu();&#10;                    break;&#10;                default:&#10;                    System.out.println(&quot;Incorrect option! Try again.&quot;);&#10;                    printMenu();&#10;                    break;&#10;            }&#10;        }&#10;&#10;        sc.close();&#10;    }&#10;&#10;    private static void searchData(String pattern, List&lt;String&gt; data) {&#10;        for (String elem : data) {&#10;            if (elem.toLowerCase().trim().contains(pattern.toLowerCase().trim())) {&#10;                System.out.println(elem);&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void printAllPeople(List&lt;String&gt; data) {&#10;        System.out.println(&quot;&quot;);&#10;        System.out.println(&quot;=== List of people ===&quot;);&#10;        data.forEach(System.out::println);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1569430318000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" value="stage6" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Now,  improve your search engine to support complex queries containing a sequence of words and a strategy that determines how to match data.&lt;/p&gt;&#10;&#10;&lt;p&gt;There are six sample lines:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Dwight Joseph djo@gmail.com&#10;Rene Webb webb@gmail.com&#10;Katie Jacobs&#10;Erick Harrington harrington@gmail.com&#10;Myrtle Medina&#10;Erick Burgess&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Let's consider the searching strategies: &lt;code&gt;ALL&lt;/code&gt;, &lt;code&gt;ANY&lt;/code&gt; and &lt;code&gt;NONE&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;    &lt;li&gt;If the strategy is &lt;code&gt;ALL&lt;/code&gt;, the program should print lines containing all words from the query.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Query:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Harrington Erick&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Result:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Erick Harrington harrington@gmail.com&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;    &lt;li&gt;If the strategy is &lt;code&gt;ANY&lt;/code&gt;, the program should print lines containing at least one word from the query.&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Query:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Erick Dwight webb@gmail.com&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Result:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Erick Harrington harrington@gmail.com&#10;Erick Burgess&#10;Dwight Joseph djo@gmail.com&#10;Rene Webb webb@gmail.com&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;&#10;&lt;ul&gt;&#10;    &lt;li&gt;If the strategy is &lt;code&gt;NONE&lt;/code&gt;, the program should print lines that do not contain words from the query at all:&lt;/li&gt;&#10;&lt;/ul&gt;&#10;&#10;&lt;p&gt;Query:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;djo@gmail.com ERICK&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;Result:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Katie Jacobs&#10;Myrtle Medina&#10;Rene Webb webb@gmail.com&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    All listed operations are implemented in the inverted index. The results should not contain duplicates.&lt;br&gt;&#10;    Note, do not forget to use methods to decompose your program.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;=== Menu ===&#10;1. Find a person&#10;2. Print all persons&#10;0. Exit&#10;1&#10;&#10;Select a matching strategy: ALL, ANY, NONE&#10;ANY&#10;&#10;Enter a name or email to search all suitable people.&#10;Katie Erick QQQ&#10;&#10;3 persons found:&#10;Katie Jacobs&#10;Erick Harrington harrington@gmail.com&#10;Erick Burgess&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/66/stages/359/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5501" />
+                      <option name="index" value="6" />
+                      <option name="name" value="Search strategies" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/SearchEngineTests.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SearchEngineTests.java" />
+                                <option name="text" value="public class SearchEngineTests {&#10;    public static final String NAMES = &quot;Kristofer Galley\n&quot; +&#10;        &quot;Fernando Marbury fernando_marbury@gmail.com\n&quot; +&#10;        &quot;Kristyn Nix nix-kris@gmail.com\n&quot; +&#10;        &quot;Regenia Enderle\n&quot; +&#10;        &quot;Malena Gray\n&quot; +&#10;        &quot;Colette Mattei\n&quot; +&#10;        &quot;Wendolyn Mcphillips\n&quot; +&#10;        &quot;Jim Gray\n&quot; +&#10;        &quot;Coreen Beckham\n&quot; +&#10;        &quot;Bob Yeh bobyeah@gmail.com\n&quot; +&#10;        &quot;Shannan Bob stropeshah@gmail.com\n&quot; +&#10;        &quot;Yer Fillion\n&quot; +&#10;        &quot;Margene Resendez marres@gmail.com\n&quot; +&#10;        &quot;Blossom Ambler\n&quot; +&#10;        &quot;Teri Ledet teri_ledet@gmail.com\n&quot; +&#10;        &quot;Dana Baron baron@gmail.com\n&quot; +&#10;        &quot;Abram Goldsberry\n&quot; +&#10;        &quot;Yer Leopold\n&quot; +&#10;        &quot;Stefania Trunzo\n&quot; +&#10;        &quot;Alexis Leopold\n&quot; +&#10;        &quot;Carlene Bob\n&quot; +&#10;        &quot;Oliver Dacruz\n&quot; +&#10;        &quot;Jonie Richter\n&quot; +&#10;        &quot;Pasquale Gallien gallien@evilcorp.com\n&quot; +&#10;        &quot;Verdie Gentle\n&quot; +&#10;        &quot;Gerardo Strouth gallien@evilcorp.com\n&quot; +&#10;        &quot;Agripina Bob\n&quot; +&#10;        &quot;Latricia Niebuhr\n&quot; +&#10;        &quot;Malena Schommer\n&quot; +&#10;        &quot;Drema Leopold\n&quot; +&#10;        &quot;Heide Payeur\n&quot; +&#10;        &quot;Ranae Digiovanni\n&quot; +&#10;        &quot;Simona Pereira\n&quot; +&#10;        &quot;Nick Digiovanni\n&quot; +&#10;        &quot;Angelita Wigington gallien@evilcorp.com\n&quot; +&#10;        &quot;Elin Gray\n&quot; +&#10;        &quot;Dwain Trunzo\n&quot; +&#10;        &quot;Boris Beiler\n&quot; +&#10;        &quot;Remi Malek fsociefy@gmail.com\n&quot; +&#10;        &quot;Demetria Hostetler gallien@evilcorp.com\n&quot; +&#10;        &quot;Nydia Mcduffie\n&quot; +&#10;        &quot;Florencio Defibaugh\n&quot; +&#10;        &quot;Warner Giblin\n&quot; +&#10;        &quot;Bob Mans\n&quot; +&#10;        &quot;Shu Gray\n&quot; +&#10;        &quot;Kaycee Gray\n&quot; +&#10;        &quot;Victorina Froehlich victory@gmail.com\n&quot; +&#10;        &quot;Roseanne Gray\n&quot; +&#10;        &quot;Erica Radford hisam@gmail.com\n&quot; +&#10;        &quot;Elyse Pauling&quot;;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/SimpleSearchEngineTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/SimpleSearchEngineTest.java" />
+                                <option name="text" value="import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;import search.Main;&#10;&#10;import java.util.*;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class SimpleSearchEngineTest extends BaseStageTest&lt;TestClue&gt; {&#10;    public SimpleSearchEngineTest() {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        return Arrays.asList(&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&quot;1\n&quot; +&#10;                &quot;ANY\n&quot; +&#10;                &quot;bob gallien@evilcorp.com\n&quot; +&#10;                &quot;2\n&quot; +&#10;                &quot;1\n&quot; +&#10;                &quot;NONE\n&quot; +&#10;                &quot;bob gallien@evilcorp.com\n&quot; +&#10;                &quot;0&quot;)).setInput(&quot;1\n&quot; +&#10;                &quot;ANY\n&quot; +&#10;                &quot;bob gallien@evilcorp.com\n&quot; +&#10;                &quot;2\n&quot; +&#10;                &quot;1\n&quot; +&#10;                &quot;NONE\n&quot; +&#10;                &quot;bob gallien@evilcorp.com\n&quot; +&#10;                &quot;0&quot;)&#10;                .addArguments(&quot;--data&quot;, &quot;names.txt&quot;)&#10;                .addFile(&quot;names.txt&quot;, SearchEngineTests.NAMES),&#10;            new TestCase&lt;TestClue&gt;().setAttach(new TestClue(&quot;2\n&quot; +&#10;                &quot;1\n&quot; +&#10;                &quot;ALL\n&quot; +&#10;                &quot;this text never gonna be matched\n&quot; +&#10;                &quot;2\n&quot; +&#10;                &quot;0&quot;)).setInput(&quot;2\n&quot; +&#10;                &quot;1\n&quot; +&#10;                &quot;ALL\n&quot; +&#10;                &quot;this text never gonna be matched\n&quot; +&#10;                &quot;2\n&quot; +&#10;                &quot;0&quot;)&#10;                .addArguments(&quot;--data&quot;, &quot;names.txt&quot;)&#10;                .addFile(&quot;names.txt&quot;, SearchEngineTests.NAMES)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cR = &quot;\n&quot;;&#10;        List&lt;String&gt; outputLines = new LinkedList&lt;String&gt;(Arrays.asList(reply.split(cR)));&#10;        String[] inputLines = clue.input.split(cR);&#10;        String[] reference;&#10;&#10;        reference = SearchEngineTests.NAMES.split(&quot;\n&quot;);&#10;&#10;        //clear the list of unnecessary lines, if any&#10;        List&lt;String&gt; cleanedOutput = new ArrayList&lt;String&gt;();&#10;        for (int i = 0; i &lt; outputLines.size(); i++) {&#10;            if (containsItemFromList(outputLines.get(i), reference)) {&#10;                cleanedOutput.add(outputLines.get(i).toLowerCase());&#10;            }&#10;        }&#10;&#10;        int currentInputLine = 0;&#10;        int currentOutputLine = 0;&#10;&#10;        int actionType = -1;&#10;&#10;        while (actionType != 0) {&#10;            try {&#10;                actionType = Integer.parseInt(inputLines[currentInputLine]);&#10;            } catch (NumberFormatException e) {&#10;                return new CheckResult(false,&#10;                    &quot;The number of menu item must be number!&quot;);&#10;            }&#10;&#10;            switch (actionType) {&#10;                case 1:&#10;                    currentInputLine++;&#10;&#10;                    List&lt;Integer&gt; result = new ArrayList&lt;&gt;();&#10;&#10;                    List&lt;String&gt; intendedResult = new ArrayList&lt;&gt;();&#10;&#10;                    while (true) {&#10;                        String mode = inputLines[currentInputLine].trim().toLowerCase();&#10;                        currentInputLine++;&#10;&#10;                        String toSearch = &quot;&quot;;&#10;&#10;                        if (mode.equalsIgnoreCase(&quot;all&quot;)) {&#10;                            toSearch = inputLines[currentInputLine].trim().toLowerCase();&#10;                            currentInputLine++;&#10;                            String[] allChecks = toSearch.split(&quot; &quot;);&#10;&#10;                            for (String s : reference) {&#10;                                s = s.toLowerCase();&#10;&#10;                                boolean isPassedChecks = true;&#10;&#10;                                for (String currCheck : allChecks) {&#10;                                    if (!(s.contains(&quot; &quot; + currCheck + &quot; &quot;)&#10;                                        || s.startsWith(currCheck + &quot; &quot;)&#10;                                        || s.endsWith(&quot; &quot; + currCheck))) {&#10;&#10;                                        isPassedChecks = false;&#10;                                        break;&#10;                                    }&#10;                                }&#10;&#10;                                if (isPassedChecks) {&#10;                                    intendedResult.add(s);&#10;                                }&#10;                            }&#10;                            break;&#10;                        } else if (mode.equalsIgnoreCase(&quot;any&quot;)) {&#10;                            toSearch = inputLines[currentInputLine].trim().toLowerCase();&#10;                            currentInputLine++;&#10;                            String[] allChecks = toSearch.split(&quot; &quot;);&#10;&#10;                            for (String s : reference) {&#10;                                s = s.toLowerCase();&#10;&#10;                                boolean isPassedChecks = false;&#10;&#10;                                for (String currCheck : allChecks) {&#10;                                    if (s.contains(&quot; &quot; + currCheck + &quot; &quot;)&#10;                                        || s.startsWith(currCheck + &quot; &quot;)&#10;                                        || s.endsWith(&quot; &quot; + currCheck)) {&#10;&#10;                                        isPassedChecks = true;&#10;                                        break;&#10;                                    }&#10;                                }&#10;&#10;                                if (isPassedChecks) {&#10;                                    intendedResult.add(s);&#10;                                }&#10;                            }&#10;                            break;&#10;                        } else if (mode.equalsIgnoreCase(&quot;none&quot;)) {&#10;                            toSearch = inputLines[currentInputLine].trim().toLowerCase();&#10;                            currentInputLine++;&#10;                            String[] allChecks = toSearch.split(&quot; &quot;);&#10;&#10;                            for (String s : reference) {&#10;                                s = s.toLowerCase();&#10;&#10;                                boolean isPassedChecks = true;&#10;&#10;                                for (String currCheck : allChecks) {&#10;                                    if (s.contains(&quot; &quot; + currCheck + &quot; &quot;)&#10;                                        || s.startsWith(currCheck + &quot; &quot;)&#10;                                        || s.endsWith(&quot; &quot; + currCheck)) {&#10;&#10;                                        isPassedChecks = false;&#10;                                        break;&#10;                                    }&#10;                                }&#10;&#10;                                if (isPassedChecks) {&#10;                                    intendedResult.add(s);&#10;                                }&#10;                            }&#10;                            break;&#10;                        }&#10;                    }&#10;&#10;                    String[] userResult = new String[intendedResult.size()];&#10;                    for (int i = 0; i &lt; intendedResult.size(); i++) {&#10;                        try {&#10;                            userResult[i] = cleanedOutput.get(currentOutputLine++);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                    }&#10;&#10;                    String[] correctOutput = intendedResult.toArray(String[]::new);&#10;&#10;                    Arrays.sort(correctOutput);&#10;                    Arrays.sort(userResult);&#10;&#10;                    if (!Arrays.equals(correctOutput, userResult)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Search result is not equal &quot; +&#10;                                &quot;to the expected search&quot;);&#10;                    }&#10;                    break;&#10;                case 2:&#10;                    currentInputLine++;&#10;&#10;                    List&lt;String&gt; intendedResultAll = new ArrayList&lt;&gt;();&#10;&#10;                    for (String s : reference) {&#10;                        s = s.toLowerCase();&#10;                        intendedResultAll.add(s);&#10;                    }&#10;&#10;                    String[] userResultAll = new String[intendedResultAll.size()];&#10;                    for (int i = 0; i &lt; intendedResultAll.size(); i++) {&#10;                        try {&#10;                            userResultAll[i] = cleanedOutput.get(currentOutputLine++);&#10;                        } catch (IndexOutOfBoundsException e) {&#10;                            return new CheckResult(false,&#10;                                &quot;Seems like you output less than expected. &quot; +&#10;                                    &quot;Either you've lost someone in the printing of all &quot; +&#10;                                    &quot;people, or you haven't printed all the necessary &quot; +&#10;                                    &quot;people in the search.&quot;);&#10;                        }&#10;                    }&#10;&#10;                    String[] correctOutputAll = intendedResultAll.toArray(String[]::new);&#10;&#10;                    Arrays.sort(correctOutputAll);&#10;                    Arrays.sort(userResultAll);&#10;&#10;                    if (!Arrays.equals(correctOutputAll, userResultAll)) {&#10;                        return new CheckResult(false,&#10;                            &quot;Looks like you're printing &quot; +&#10;                                &quot;unknown people when you enter option 2.&quot;);&#10;                    }&#10;                    break;&#10;                case 0:&#10;                    return CheckResult.TRUE;&#10;                default:&#10;                    currentInputLine++;&#10;                    break;&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    private static boolean containsItemFromList(String inputStr, String[] items) {&#10;        return Arrays.stream(items).parallel().anyMatch(inputStr::contains);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/Main.java" />
+                                <option name="text" value="package search;&#10;&#10;import java.io.File;&#10;import java.io.FileNotFoundException;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        List&lt;String&gt; data = collectData(args);&#10;&#10;        printMenu();&#10;&#10;        performAction(data);&#10;    }&#10;&#10;    private static List&lt;String&gt; collectData(String[] args) {&#10;        List&lt;String&gt; data = new ArrayList&lt;&gt;();&#10;&#10;        File file = new File(args[1]);&#10;        try {&#10;            Scanner sc = new Scanner(file);&#10;&#10;            while (sc.hasNext()) {&#10;                data.add(sc.nextLine());&#10;            }&#10;        } catch (FileNotFoundException e) {&#10;            /*_*/&#10;        }&#10;&#10;        return data;&#10;    }&#10;&#10;    private static void printMenu() {&#10;        System.out.println(&quot;&quot;);&#10;        System.out.println(&quot;=== Menu ===&quot;);&#10;        System.out.println(&quot;1. Find a person&quot;);&#10;        System.out.println(&quot;2. Print all people&quot;);&#10;        System.out.println(&quot;0. Exit&quot;);&#10;    }&#10;&#10;    private static void performAction(List&lt;String&gt; data) {&#10;        Scanner sc = new Scanner(System.in);&#10;&#10;        loop: while (true) {&#10;            int action = Integer.parseInt(sc.nextLine());&#10;&#10;            switch (action) {&#10;                case 0:&#10;                    System.out.println(&quot;Bye!&quot;);&#10;                    break loop;&#10;                case 1:&#10;                    System.out.println(&quot;Enter a name or email to search all suitable people.&quot;);&#10;                    String name = sc.nextLine();&#10;                    searchData(name, data);&#10;                    printMenu();&#10;                    break;&#10;                case 2:&#10;                    printAllPeople(data);&#10;                    printMenu();&#10;                    break;&#10;                default:&#10;                    System.out.println(&quot;Incorrect option! Try again.&quot;);&#10;                    printMenu();&#10;                    break;&#10;            }&#10;        }&#10;&#10;        sc.close();&#10;    }&#10;&#10;    private static void searchData(String pattern, List&lt;String&gt; data) {&#10;        for (String elem : data) {&#10;            if (elem.toLowerCase().trim().contains(pattern.toLowerCase().trim())) {&#10;                System.out.println(elem);&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void printAllPeople(List&lt;String&gt; data) {&#10;        System.out.println(&quot;&quot;);&#10;        System.out.println(&quot;=== List of people ===&quot;);&#10;        data.forEach(System.out::println);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/SearchStrategyInterface.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/SearchStrategyInterface.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/dataSource/DataSourceInterface.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/dataSource/DataSourceInterface.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/indexBuilder/IndexBuilderInterface.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/indexBuilder/IndexBuilderInterface.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/indexBuilder/InvertedIndexBuilder.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/indexBuilder/InvertedIndexBuilder.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/dataSource/FileDataSource.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/dataSource/FileDataSource.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/Any.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/Any.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/indexBuilder/BuildIndexException.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/indexBuilder/BuildIndexException.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/None.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/None.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/All.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/All.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/SearchStrategyResolver.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/SearchStrategyResolver.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/StrategyTypeEnum.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/StrategyTypeEnum.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/search/strategy/Base.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/search/strategy/Base.java" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1569430319000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
